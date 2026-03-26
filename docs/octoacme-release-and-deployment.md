@@ -3,6 +3,14 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## Release Manager Role
+The Release Manager owns the end-to-end release process. Responsibilities include:
+- Scheduling and communicating deployment windows with the project team and stakeholders
+- Verifying all pre-release requirements are satisfied before initiating deployment
+- Coordinating go/no-go decisions with the QA Lead and Project Manager
+- Distributing release notes and post-release announcements
+- Leading rollback decisions and incident coordination if a release fails
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements

@@ -23,6 +23,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+### QA Lead Responsibilities
+- Define and maintain the test strategy and quality standards for each release cycle
+- Plan test phases (unit, integration, regression, UAT) and communicate coverage targets to the team
+- Triage defects and escalate blockers to the Project Manager as needed
+- Provide release readiness sign-off before handoff to the Release Manager
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
